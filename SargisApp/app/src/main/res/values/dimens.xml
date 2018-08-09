@@ -1,0 +1,14 @@
+<resources>
+    <dimen name="app_bar_height">300dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+    <dimen name="desc_txt_size">20sp</dimen>
+    <dimen name="name_size">16sp</dimen>
+    <dimen name="image_size">75dp</dimen>
+    <dimen name="lay_margin">3dp</dimen>
+    <dimen name="name_margin">10dp</dimen>
+    <dimen name="number_margin">33dp</dimen>
+    <dimen name="number_size">12sp</dimen>
+    <dimen name="image_btn_margin">15dp</dimen>
+    <dimen name="mail_margin">55dp</dimen>
+</resources>
